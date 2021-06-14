@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pixel Dungeon</string>
+    <string name="overpriced_food_ration">overpriced food ration</string>
+    <string name="That_food_tasted_ok">That food tasted ok.</string>
+    <string name="It_looks_exactly_like_a_standard_ration_of_food_but_smaller">It looks exactly like a standard ration of food but smaller.</string>
+    <string name="Welcome_to_the_level">Welcome to the level %d of Pixel Dungeon!</string>
+    <string name="Welcome_back_to_the_level">Welcome back to the level %d of Pixel Dungeon!</string>
+    <string name="dungeon_is_even_more_dangerous_at_night">Be cautious, since the dungeon is even more dangerous at night!</string>
+    <string name="echo_across">Your steps echo across the dungeon.</string>
+    <string name="hear_the_water">You hear the water splashing around you.</string>
+    <string name="smell_of_vegetation">The smell of vegetation is thick in the air.</string>
+    <string name="floor_hides_many_secrets">The atmosphere hints that this floor hides many secrets.</string>
+    <string name="Descending">Descending...</string>
+    <string name="Ascending">Ascending...</string>
+    <string name="Loading">Loading...</string>
+    <string name="Resurrecting">Resurrecting...</string>
+    <string name="Returning">Returning...</string>
+    <string name="Falling">Falling...</string>
+    <string name="ERROR_GENERIC">Something went wrong...</string>
+    <string name="ERROR_FILE_NOT_FOUND">File not found. For some reason.</string>
+    <string name="INTRO_SCENE_TEXT">Many heroes of all kinds ventured into the Dungeon before you. Some of them have returned with treasures and magical artifacts, most have never been heard of since. But none have succeeded in retrieving the Amulet of Yendor, which is told to be hidden in the depths of the Dungeon.\n\nYou consider yourself ready for the challenge, but most importantly, you feel that fortune smiles on you. It\'s time to start your own adventure!</string>
+    <string name="Top_Rankings">Top Rankings</string>
+    <string name="Games_played">\"Games played: \"</string>
+    <string name="No_games_have_been_played_yet">No games have been played yet.</string>
+    <string name="No_additional_information">No additional information</string>
+    <string name="Load_Game">Load Game</string>
+    <string name="New_Game">New Game</string>
+    <string name="Erase_current_game">Erase current game</string>
+    <string name="Depth_level">Depth: %d, level: %d</string>
+    <string name="want_start_new_game">Do you really want to start new game?</string>
+    <string name="progress_will_be_erased">Your current game progress will be erased.</string>
+    <string name="new_game">Yes, start new game</string>
+    <string name="to_main_menu">No, return to main menu</string>
+    <string name="unlock_huntress">To unlock this character class, slay the 3rd boss with any other class</string>
+    <string name="unlock_challenges">To unlock \"Challenges\", win the game with any character class.</string>
+    <string name="Play">Play</string>
+    <string name="Rankings">Rankings</string>
+    <string name="Badges">Badges</string>
+    <string name="About">About</string>
+    <string name="ABOUT_TEXT"><![CDATA[Code & graphics: Watabou\nMusic: Cube_Code and http://evolonline.org (Mana world)\n\nThis game is inspired by Brian Walker\'s Brogue. Try it on Windows, Mac OS or Linux - it\'s awesome! ;)\n\nPlease visit official website for additional info:]]></string>
+    <string name="LINK">pixeldungeon.watabou.ru</string>
+</resources>
